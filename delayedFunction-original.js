@@ -22,3 +22,4 @@ function delayedFunction() {
         }, delay);
     });
 }
+exports.delayedFunction = delayedFunction;
